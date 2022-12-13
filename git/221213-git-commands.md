@@ -26,7 +26,7 @@
 - git clone 저장소주소: 저장소복제
 - git add 파일명: 해당 파일을 stage area로 올림
 - git commit : stage area에 있는 파일들을 commit함
-- git push: 설정되어있는 respository 로 push 함
+- git push 저장소이름 브랜치명: 설정되어있는 respository 로 push 함
 - git status -uall :파일이름까지 자세히 보여줌
 - git reset HEAD 파일명: stage area 내 파일을 다시 내려놓기
 
@@ -68,8 +68,7 @@ stage area에파일을 올리는 이유: 작업단위가 각각 다르기 때문
 8. Type to shell [git status] - stage area confirm
 9. Type to shell [git commit]
 10. Type to shell [git status] - commit confirm
-11. If this task Doesn't have matter go push. Type to shell [git push]
-
+11. If this task Doesn't have matter go push. Type to shell [git push ReopsitoryName BranchName]
 
 
 
