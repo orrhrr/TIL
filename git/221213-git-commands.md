@@ -29,6 +29,7 @@
 - git push 저장소이름 브랜치명: 설정되어있는 respository 로 push 함
 - git status -uall :파일이름까지 자세히 보여줌
 - git reset HEAD 파일명: stage area 내 파일을 다시 내려놓기
+- git remote rename 기존저장소명 새로운저장소명: 원격저장소명 변경
 
 
 ## Vim commands
